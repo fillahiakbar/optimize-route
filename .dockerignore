@@ -1,0 +1,11 @@
+# Ignore Python cache files
+**/_pycache_/
+
+# Ignore caches and temporary files
+*.cache
+
+# Include specific files needed for the app
+!requirements.txt
+!Dockerfile
+!*.py
+!model.keras

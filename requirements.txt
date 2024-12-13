@@ -1,0 +1,13 @@
+flask
+tensorflow
+numpy
+geopy
+osmnx
+networkx
+folium
+google-cloud-firestore
+matplotlib
+scikit-learn
+google-auth
+ortools
+scipy
